@@ -1,3 +1,8 @@
+TheOdinProject
+https://www.theodinproject.com/lessons/let-s-get-building
+https://www.railstutorial.org/book/static_pages
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
